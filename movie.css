@@ -1,0 +1,7 @@
+h1, h2 {
+        text-decoration: underline;
+        text-align: left;
+}
+h1 {
+    margin-bottom: 100px;
+}
